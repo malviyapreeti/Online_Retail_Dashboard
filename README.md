@@ -44,6 +44,8 @@ This project analyzes online retail sales data using PostgreSQL and Power BI. Th
 
 ##  Dashboard Preview
 online_retail_dashboard.png
+(<img width="427" height="337" alt="Online_Retail_Dashboard" src="https://github.com/user-attachments/assets/d117bbf6-7509-4456-a542-5f9ecad99822" />
+
 
 ##  Repository Contents
 
